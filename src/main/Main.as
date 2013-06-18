@@ -8,6 +8,7 @@ package main
 	{
 		public function Main()
 		{
+			//hellowrld
 		}
 	}
 }
